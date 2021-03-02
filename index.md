@@ -45,7 +45,7 @@
 
 <script>
 function myFunction() {
-  window.open("");
+  window.open("https://farmergamer2437.github.io/Discord-Bot-Mr.M/");
 }
 </script>
 </body>
