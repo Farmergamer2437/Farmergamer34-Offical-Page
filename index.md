@@ -1,3 +1,5 @@
+<!Docktype html>
+<html>
 <head>
 	<title>
 		Farmergamer2437
@@ -31,3 +33,20 @@
 	</a>
 <br>
 <br>
+	<p>
+		We will try to update this page as much as possible
+	</p>
+	<button onclick="document.getElementById('demo').innerHTML=Date()">
+		Get Time And date
+	</button>
+
+		<p id="demo"></p>
+	<button onclick="myFunction()">Get new discord bot info here</button>
+
+<script>
+function myFunction() {
+  window.open("");
+}
+</script>
+</body>
+</html>
